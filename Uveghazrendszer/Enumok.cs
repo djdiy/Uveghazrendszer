@@ -11,6 +11,14 @@ namespace Uveghazrendszer
         ADMIN
     }
 
+    enum Szenzor
+    {
+        TULONTOZES,
+        SZARAZSAG,
+        BETEGSÉG,
+        TAPANYAGHIANY
+    }
+
 
     internal class Enumok
     {
